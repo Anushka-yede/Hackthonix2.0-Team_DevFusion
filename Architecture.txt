@@ -1,0 +1,9 @@
+ESP32
+  ↓
+Backend / Firebase
+  ↓
+Mobile App
+  ↓
+User Commands
+  ↓
+ESP32

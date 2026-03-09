@@ -15,7 +15,7 @@ This project demonstrates how IoT technology can improve home comfort, automatio
 ✨ Low-cost smart home prototype
 
 🧰 Hardware Components
-Component	Description
+Component	Description : 
 ESP32	Main microcontroller with WiFi
 DHT11	Temperature sensing
 HC-SR04	Distance detection
@@ -25,8 +25,8 @@ IR Sensor	Motion detection
 LEDs	Room lights (Bedroom, Hall, Kitchen)
 Breadboard	Circuit connections
 Jumper Wires	Wiring
-💻 Software Requirements
 
+💻 Software Requirements
 Arduino IDE
 ESP32 Board Package
 
@@ -75,7 +75,6 @@ ESP32 hosts a web server.
 Users open the ESP32 IP address in their phone browser to control devices.
 
 Available controls:
-
 ✔ Bedroom Light ON/OFF
 ✔ Hall Light ON/OFF
 ✔ Kitchen Light ON/OFF
@@ -100,7 +99,6 @@ Door Control
 [ OPEN ] [ CLOSE ]
 
 🎯 Objectives
-
 Develop a smart home automation prototype
 Implement IoT-based device control
 Integrate sensors for automatic responses
@@ -108,7 +106,6 @@ Demonstrate real-time monitoring
 Provide remote appliance control
 
 🚀 Advantages
-
 ✔ Low-cost automation system
 ✔ Easy installation
 ✔ Energy efficient
@@ -116,7 +113,6 @@ Provide remote appliance control
 ✔ Expandable IoT platform
 
 🏢 Applications
-
 Smart homes
 Offices
 Hotels

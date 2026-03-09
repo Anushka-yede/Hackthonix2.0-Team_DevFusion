@@ -1,4 +1,3 @@
-
 package com.example.smarthome;
 
 import androidx.appcompat.app.AppCompatActivity;
